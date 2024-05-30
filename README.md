@@ -1,1 +1,1 @@
-# Spatial AI - Trento 
+# Spatial & Social AI - Trento 
