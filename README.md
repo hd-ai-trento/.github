@@ -1,1 +1,1 @@
-# .github
+# Human Dynamics AI - Trento 
