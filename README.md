@@ -1,1 +1,1 @@
-# Human Dynamics AI - Trento 
+# Spatial AI - Trento 
